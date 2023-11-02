@@ -1,1 +1,1 @@
-# This is a coding interview question about pascal triangle
+# Log Parsing
