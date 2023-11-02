@@ -36,3 +36,4 @@ except KeyboardInterrupt:
     pass
 
 print_stats(total_size, status_counts)
+
